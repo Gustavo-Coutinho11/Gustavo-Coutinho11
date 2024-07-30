@@ -10,6 +10,6 @@ Meu nome é Gustavo Coutinho
 
 00001107391088sp@al.educacao.sp.gov.br
 
-@gustavoCoutinho
+@GustavoCoutinho
 
 ![](https://media1.tenor.com/m/aPgTU-Z9j1MAAAAd/funny-dogs-cute.gif)
